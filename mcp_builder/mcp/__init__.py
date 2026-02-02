@@ -1,0 +1,1 @@
+"""MCP YAML generation and management."""
